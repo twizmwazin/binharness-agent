@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "bh_agent_client",
+    "bh_agent_common",
+    "bh_agent_server",
+]
